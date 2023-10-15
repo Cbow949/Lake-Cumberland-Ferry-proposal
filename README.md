@@ -19,4 +19,4 @@ The Satellite map include was created using Google Satellite with added scratch 
 
 All maps include a legend, course plots, titles, and North markers. 
 
-Link to the final index.html - file:///C:/Users/bowlinc/Documents/GitHub/Lake-Cumberland-Ferry-proposal/index.html
+Link to the final index.html - https://cbow949.github.io/Lake-Cumberland-Ferry-proposal/
